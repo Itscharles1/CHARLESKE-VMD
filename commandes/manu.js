@@ -24,9 +24,9 @@ zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions
     const temps = moment().format('HH:mm:ss');
     const date = moment().format('DD/MM/YYYY');
 
-    let infoMsg = `🎩 *Hello ${nomAuteurMessage}!* 🎩
+    let infoMsg = `⚙️📡 *Hello ${nomAuteurMessage}!* 📡⚙️
 ━━━━━━━━━━━━━━━━━━━━
-🚀 *BOT NAME:* 𝐂𝐇𝐀𝐑𝐋𝐄𝐒 𝐊𝐄  
+🚀 *BOT NAME:* 𝐂𝐇𝐀𝐑𝐋𝐄𝐒𝐊𝐄-VMD  
 ━━━━━━━━━━━━━━━━━━━━
 🌍 *SYSTEM INFO:*
 💻 ᴘʟᴀᴛғᴏʀᴍ: *${os.platform()}*
@@ -43,12 +43,12 @@ zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions
 📘 𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊:  
 🔗 https://www.facebook.com/profile.php?id=100083389717604  
 📢 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐆𝐑𝐎𝐔𝐏:  
-🔗 https://chat.whatsapp.com/I81wIoCXL4JJGfwnXcxEvx  
+🔗 https://chat.whatsapp.com/EFh0BWKa0Uf92A7RgBwpuu  
 📸 𝐈𝐍𝐒𝐓𝐀𝐆𝐑𝐀𝐌:  
 🔗 https://www.instagram.com/charles_a_ke  
 ━━━━━━━━━━━━━━━━━━━━
 ${readMore}
-📜 *COMMAND MENU* 📜
+📜 *COMMANDS MENU* 📜
 ━━━━━━━━━━━━━━━━━━━━\n`;
 
     let menuMsg = ``;
@@ -61,7 +61,7 @@ ${readMore}
         menuMsg += `━━━━━━━━━━━━━━━━━━━━\n`;
     }
 
-    menuMsg += `✨ *𝐂𝐇𝐀𝐑𝐋𝐄𝐒 𝐊𝐄 𝐁𝐎𝐓 - 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒅 𝒃𝒚 Charles ke* ✨`;
+    menuMsg += `✨ *𝐂𝐇𝐀𝐑𝐋𝐄𝐒𝐊𝐄-VMD - 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒅 𝒃𝒚 ©Charles ke* ✨`;
 
     let imageUrl = "https://files.catbox.moe/n6dmx3.jpeg";
 
