@@ -26,7 +26,7 @@ const handleDownload = async (dest, zk, params, serviceName, apiUrl, exampleUsag
             title: conf.BOT,
             body: "Fast & Reliable Downloads",
             thumbnailUrl: conf.URL,
-            sourceUrl: "https://whatsapp.com/channel/0029Vb46YKVGehEEbFN3jH3I",
+            sourceUrl: "https://whatsapp.com/channel/0029Vao2hgeChq6HJ5bmlZ3K",
             mediaType: 1,
             showAdAttribution: true,
           },

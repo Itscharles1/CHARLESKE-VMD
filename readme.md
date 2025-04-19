@@ -1,10 +1,4 @@
-<p align="center">
-  <h1 align="center" style="font-family: 'EB Garamond'; font-size: 3em;">CHARLESEKE-VMD</h1>
-</p>
-
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=900&size=30&duration=4000&pause=1000&width=435&lines=My+Name+is+CHARLES-KE+VMD;Created+by+CHARLES KE;Fork+Me+and+Enjoy❤️!" alt="Typing SVG" />
-</p> 
-
+<a href="https://gig.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FF0000&center=true&width=1000&height=100&lines=CHARLESKE-VMD" alt="Typing SVG" /><
 
 <p align="center">  
   <a href="https://files.catbox.moe/n6dmx3.jpeg">
@@ -24,9 +18,10 @@
 </p>
 
 <p align="center">
+<p align="center">
   <a href="https://github.com/charleskenya1?tab=followers"><img title="1000Followers" src="https://img.shields.io/github/followers/charleskenya1?label=Followers&style=social"></a>
   <a href="https://github.com/charleskenya1/BMW-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/charleskenya1/BMW-MD?&style=social"></a>
-  <a href="https://github.com/charleske/BMW-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/charleskenya1CHARLESKE/BMW-MD?style=social"></a>
+  <a href="https://github.com/charleske/BMW-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks=/charleskenya1CHARLESKE/BMW-MD?style=social"></a>
   <a href="https://github.com/charleskenya1/BMW-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/charleskenya1/BMW-MD?label=Watching&style=social"></a>
 </p>
 
